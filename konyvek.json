@@ -1,0 +1,134 @@
+{
+  "konyvtar": [
+    {
+      "cim": "A gyűrűk ura",
+      "szerzok": ["J.R.R. Tolkien"],
+      "kiado": {
+        "nev": "Európa",
+        "kiadas_ev": 1954,
+        "orszag": "Magyarország"
+      },
+      "oldalszam": 1178,
+      "kategoriak": ["Fantasy", "Kaland"],
+      "ar": 12990,
+      "elkeszult": true
+    },
+    {
+      "cim": "Az ember tragédiája",
+      "szerzok": ["Madách Imre"],
+      "kiado": {
+        "nev": "Osiris",
+        "kiadas_ev": 1861,
+        "orszag": "Magyarország"
+      },
+      "oldalszam": 253,
+      "kategoriak": ["Dráma", "Klasszikus"],
+      "ar": 2990,
+      "elkeszult": true
+    },
+    {
+      "cim": "Harry Potter és a bölcsek köve",
+      "szerzok": ["J.K. Rowling"],
+      "kiado": {
+        "nev": "Animus",
+        "kiadas_ev": 1997,
+        "orszag": "Magyarország"
+      },
+      "oldalszam": 345,
+      "kategoriak": ["Fantasy", "Ifjúsági"],
+      "ar": 6990,
+      "elkeszult": true
+    },
+    {
+      "cim": "Száz év magány",
+      "szerzok": ["Gabriel García Márquez"],
+      "kiado": {
+        "nev": "Magvető",
+        "kiadas_ev": 1967,
+        "orszag": "Kolumbia"
+      },
+      "oldalszam": 471,
+      "kategoriak": ["Szépirodalom", "Magical Realism"],
+      "ar": 5490,
+      "elkeszult": true
+    },
+    {
+      "cim": "Tüskevár",
+      "szerzok": ["Fekete István"],
+      "kiado": {
+        "nev": "Móra",
+        "kiadas_ev": 1957,
+        "orszag": "Magyarország"
+      },
+      "oldalszam": 272,
+      "kategoriak": ["Ifjúsági", "Természet"],
+      "ar": 3990,
+      "elkeszult": true
+    },
+    {
+      "cim": "A kisherceg",
+      "szerzok": ["Antoine de Saint-Exupéry"],
+      "kiado": {
+        "nev": "Kossuth",
+        "kiadas_ev": 1943,
+        "orszag": "Franciaország"
+      },
+      "oldalszam": 96,
+      "kategoriak": ["Ifjúsági", "Szépirodalom"],
+      "ar": 2490,
+      "elkeszult": true
+    },
+    {
+      "cim": "Egri csillagok",
+      "szerzok": ["Gárdonyi Géza"],
+      "kiado": {
+        "nev": "Európa",
+        "kiadas_ev": 1901,
+        "orszag": "Magyarország"
+      },
+      "oldalszam": 654,
+      "kategoriak": ["Történelmi", "Kaland"],
+      "ar": 4590,
+      "elkeszult": true
+    },
+    {
+      "cim": "A varázshegy",
+      "szerzok": ["Thomas Mann"],
+      "kiado": {
+        "nev": "Európa",
+        "kiadas_ev": 1924,
+        "orszag": "Németország"
+      },
+      "oldalszam": 726,
+      "kategoriak": ["Szépirodalom", "Filozófiai"],
+      "ar": 5990,
+      "elkeszult": true
+    },
+    {
+      "cim": "A per",
+      "szerzok": ["Franz Kafka"],
+      "kiado": {
+        "nev": "Magvető",
+        "kiadas_ev": 1925,
+        "orszag": "Csehország"
+      },
+      "oldalszam": 267,
+      "kategoriak": ["Szépirodalom", "Dráma"],
+      "ar": 3990,
+      "elkeszult": true
+    },
+    {
+      "cim": "Pál utcai fiúk",
+      "szerzok": ["Molnár Ferenc"],
+      "kiado": {
+        "nev": "Móra",
+        "kiadas_ev": 1907,
+        "orszag": "Magyarország"
+      },
+      "oldalszam": 302,
+      "kategoriak": ["Ifjúsági", "Klasszikus"],
+      "ar": 3490,
+      "elkeszult": true
+    }
+  ]
+}
